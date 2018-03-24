@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigaFutbollit", "LigaFutbollit\LigaFutbollit.csproj", "{3A42016B-6136-4B83-964F-2686BB41049D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{EE5F6AE6-5D3F-46D9-9FDC-9E205712959C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccLayer", "DataAccLayer\DataAccLayer.csproj", "{D92BFA62-D613-484C-AEDB-8D0D0539DC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A42016B-6136-4B83-964F-2686BB41049D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A42016B-6136-4B83-964F-2686BB41049D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A42016B-6136-4B83-964F-2686BB41049D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A42016B-6136-4B83-964F-2686BB41049D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5F6AE6-5D3F-46D9-9FDC-9E205712959C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5F6AE6-5D3F-46D9-9FDC-9E205712959C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5F6AE6-5D3F-46D9-9FDC-9E205712959C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5F6AE6-5D3F-46D9-9FDC-9E205712959C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92BFA62-D613-484C-AEDB-8D0D0539DC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92BFA62-D613-484C-AEDB-8D0D0539DC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92BFA62-D613-484C-AEDB-8D0D0539DC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92BFA62-D613-484C-AEDB-8D0D0539DC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
